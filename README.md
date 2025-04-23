@@ -28,10 +28,7 @@ Files:
 - `Task 2.ipynb`
 - `Customer_Booking_Prediction_Slide.pptx`
 
-🔧 Tech Stack:
+Tech Stack:
 - Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - NLP: VADER, NLTK
 - Jupyter Notebook, PowerPoint
-
-How to Run
-Open `.ipynb` files in Jupyter Notebook or VS Code to explore each task interactively.
